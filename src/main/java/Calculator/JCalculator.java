@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 public class JCalculator extends JFrame implements ActionListener {
     public JCalculator() {
-        super("САША и ПАПА");
+        super("My Calculator with GUI");
         initScreen();
         initDisplay();
         initButtons();
